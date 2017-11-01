@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Plotly\"\nauthor: \"Leiyu Yue\"\ndate: \"11/1/2017\"\noutput: html_document\n---\n\n",
+    "created" : 1509556881730.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3645823533",
+    "id" : "B4D61CB7",
+    "lastKnownWriteTime" : 1509556898,
+    "last_content_update" : 1509556904580,
+    "path" : "~/Documents/School/DSI/interaction/plotly.Rmd",
+    "project_path" : "plotly.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
